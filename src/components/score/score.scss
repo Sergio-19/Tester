@@ -1,0 +1,23 @@
+
+
+.score{
+    width: 80%;
+    border: 1px solid #E57373;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    text-align: center;
+    margin: 100px auto;
+    color: #526680;
+    p{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .score{
+        width: 98%;
+    }
+}

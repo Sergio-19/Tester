@@ -1,0 +1,27 @@
+
+.link{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+    >div{
+        min-width: 200px;
+        min-height: 70px;
+        background: #E57373;
+        border-radius: 5px;    ;
+        -webkit-border-radius: 5px    ;
+        -moz-border-radius: 5px    ;
+        -ms-border-radius: 5px    ;
+        -o-border-radius: 5px    ;
+        line-height: 70px;
+        text-align: center;
+
+        a{
+           color: #fff;
+           font-size: 20px;
+           
+           
+        }
+}
+}
